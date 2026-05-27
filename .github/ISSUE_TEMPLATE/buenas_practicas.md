@@ -1,5 +1,5 @@
 ---
-name: Buenas prácticas
+name: 📝Buenas prácticas
 
 about: Recomendaciones y buenas prácticas del proyecto
 
