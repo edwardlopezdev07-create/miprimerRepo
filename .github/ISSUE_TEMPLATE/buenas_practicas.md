@@ -1,3 +1,17 @@
+---
+name: Buenas prácticas
+
+about: Recomendaciones y buenas prácticas del proyecto
+
+title: "[Buenas prácticas]"
+
+labels: documentation
+
+assignees: ""
+---
+
+# 📝 Buenas prácticas
+
 # 📘 Buenas Prácticas del Proyecto
 
 Gracias por contribuir a este proyecto.  
